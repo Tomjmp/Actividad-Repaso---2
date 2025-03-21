@@ -1,0 +1,14 @@
+/Users/tomjmp/Desktop/CSHARP/Repaso/bin/Debug/net9.0/Repaso
+/Users/tomjmp/Desktop/CSHARP/Repaso/bin/Debug/net9.0/Repaso.deps.json
+/Users/tomjmp/Desktop/CSHARP/Repaso/bin/Debug/net9.0/Repaso.runtimeconfig.json
+/Users/tomjmp/Desktop/CSHARP/Repaso/bin/Debug/net9.0/Repaso.dll
+/Users/tomjmp/Desktop/CSHARP/Repaso/bin/Debug/net9.0/Repaso.pdb
+/Users/tomjmp/Desktop/CSHARP/Repaso/obj/Debug/net9.0/Repaso.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tomjmp/Desktop/CSHARP/Repaso/obj/Debug/net9.0/Repaso.AssemblyInfoInputs.cache
+/Users/tomjmp/Desktop/CSHARP/Repaso/obj/Debug/net9.0/Repaso.AssemblyInfo.cs
+/Users/tomjmp/Desktop/CSHARP/Repaso/obj/Debug/net9.0/Repaso.csproj.CoreCompileInputs.cache
+/Users/tomjmp/Desktop/CSHARP/Repaso/obj/Debug/net9.0/Repaso.dll
+/Users/tomjmp/Desktop/CSHARP/Repaso/obj/Debug/net9.0/refint/Repaso.dll
+/Users/tomjmp/Desktop/CSHARP/Repaso/obj/Debug/net9.0/Repaso.pdb
+/Users/tomjmp/Desktop/CSHARP/Repaso/obj/Debug/net9.0/Repaso.genruntimeconfig.cache
+/Users/tomjmp/Desktop/CSHARP/Repaso/obj/Debug/net9.0/ref/Repaso.dll
